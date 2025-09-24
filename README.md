@@ -22,6 +22,7 @@ It focuses on fundamental programming concepts like loops, conditions, and event
 ## 📂 Project Structure
 
 game_py/
+
 │── pixlrunner.py   # Main game file
 │── assets/         # Images, sounds, and other resources
 │── README.md       # Project documentation
